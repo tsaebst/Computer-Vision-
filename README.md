@@ -8,7 +8,7 @@ This project focuses on classifying animal images using a Convolutional Neural N
 - `dataset/` – directory containing animal images.
 - Additional notebooks and scripts will be added as the project evolves.
 
-## ⚙️ Environment Setup
+## Environment Setup
 This project can be run in **Google Colab** or locally with Python.
 
 ###  Required Libraries
